@@ -199,7 +199,7 @@ const Home = () => {
 
     return (
         <div className='h-screen relative overflow-hidden'>
-            <img className='w-16 absolute left-5 top-5' src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Uber_logo_2018.png" alt="" />
+            <img className='w-16 absolute left-5 top-5' src="https://cdn.brandfetch.io/iduqsBf89y/w/820/h/295/theme/dark/logo.png?c=1dxbfHSJFAPEGdCLU4o5B" alt="" />
             <div className='h-screen w-screen'>
                 {/* image for temporary use  */}
                 <LiveTracking />
