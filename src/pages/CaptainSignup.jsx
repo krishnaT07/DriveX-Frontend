@@ -61,7 +61,7 @@ const CaptainSignup = () => {
   return (
     <div className='py-5 px-5 h-screen flex flex-col justify-between'>
       <div>
-        <img className='w-20 mb-3' src="https://www.svgrepo.com/show/505031/uber-driver.svg" alt="" />
+        <img className='w-20 mb-3' src="https://cdn.brandfetch.io/iduqsBf89y/w/820/h/295/theme/dark/logo.png?c=1dxbfHSJFAPEGdCLU4o5B" alt="" />
 
         <form onSubmit={(e) => {
           submitHandler(e)
